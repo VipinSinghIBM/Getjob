@@ -1,5 +1,5 @@
 # About Getjob
-Joblister is made with laravel 8 and vue js. <br/>
+getjob is made with laravel 8 and vue js. <br/>
 Having user,author,admin role and permissions <br/>
 Live : [Click Me]() <br/>
 
@@ -46,7 +46,7 @@ border="0" /></a>
 
 ## 1. Clone the repository
 
-> 
+> https://github.com/VipinSinghIBM/getjob.git
 
 <br />
 
